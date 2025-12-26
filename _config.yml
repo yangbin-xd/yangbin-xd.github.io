@@ -23,7 +23,7 @@ repository               : "yangbin-xd/yangbin-xd.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Bin Yang"
   pronouns         : # example: "he/him"  
   bio              : "PhD student in UNSW"
