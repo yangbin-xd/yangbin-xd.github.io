@@ -5,8 +5,7 @@ category: conferences
 permalink: https://ieeexplore.ieee.org/abstract/document/10622568/
 excerpt: 'This paper considers beamforming for cell-free massive MIMO based on radio map.'
 date: 2024-06-12
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
+venue: 'IEEE International Conference on Communications (ICC)'
 paperurl: 'https://academicpages.github.io/files/paper2.pdf'
 citation: 'B. Yang, W. Wang, and W. Zhang, “Cell-free massive MIMO beamforming based on radio map,” in Proc. IEEE Int. Conf. Commun. (ICC), Jun. 2024, pp. 4506–4511.'
 ---
