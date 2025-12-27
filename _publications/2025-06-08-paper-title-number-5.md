@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "AIGC-Based Radio Map Construction for Channel Estimation in Low-Altitude Economy"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
+permalink: https://ieeexplore.ieee.org/abstract/document/11148098
+excerpt: 'This paper constructs radio map based on CVCGAN for channel estimation in low-altitude economy.'
+date: 2025-08-10
+venue: 'IEEE/CIC International Conference on Communications in China (ICCC) Workshops'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+citation: 'B. Yang, W. Zhang, and S. Zhang, "AIGC-based radio map construction for channel estimation in low-altitude economy," in Proc. IEEE/CIC Int. Conf. Commun. China (ICCC) Wkshps, Aug. 2025, pp. 1-6.'
 ---
 
 Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
