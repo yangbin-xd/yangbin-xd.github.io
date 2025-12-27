@@ -1,7 +1,7 @@
 ---
 title: "Cell-free massive MIMO beamforming based on radio map"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: https://ieeexplore.ieee.org/abstract/document/10622568/
 excerpt: 'This paper considers beamforming for cell-free massive MIMO based on radio map.'
 date: 2024-06-12
