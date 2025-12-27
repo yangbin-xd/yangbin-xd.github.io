@@ -1,7 +1,7 @@
 ---
 title: "MIMO Beamforming with Reduced Pilots and Radio Map for Emergency Wireless Communications"
 collection: publications
-category: conference
+category: conferences
 permalink: https://ieeexplore.ieee.org/abstract/document/11100820
 excerpt: 'This paper considers the integration of reduced pilots and radio map.'
 date: 2024-12-08
