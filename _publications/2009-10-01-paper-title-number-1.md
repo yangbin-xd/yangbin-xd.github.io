@@ -3,7 +3,7 @@ title: "Deep learning-based radio map for MIMO-OFDM downlink precoding"
 collection: publications
 category: manuscripts
 permalink: https://ieeexplore.ieee.org/abstract/document/10272348/
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This paper proposes .'
 date: 2023-08-30
 venue: 'Journal of Communications and Information Theory'
 slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
