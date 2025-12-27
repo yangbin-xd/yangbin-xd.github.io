@@ -1,8 +1,8 @@
 ---
-title: "Paper Title Number 2"
+title: "Deep learning-based radio map for MIMO-OFDM downlink precoding"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: https://ieeexplore.ieee.org/abstract/document/10272348/
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
 venue: 'Journal 1'
