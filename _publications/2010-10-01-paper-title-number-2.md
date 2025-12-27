@@ -1,7 +1,7 @@
 ---
 title: "Radio Map-Based Beamforming Assisted with Reduced Pilots"
 collection: publications
-category: manuscript
+category: manuscripts
 permalink: https://ieeexplore.ieee.org/abstract/document/11008499
 excerpt: 'This paper integrates reduced pilots and radio map, as well as an SVM-based discriminator.'
 date: 2025-05-21
