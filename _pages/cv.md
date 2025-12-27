@@ -11,26 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in University of New South Wales, 2026 (Supervisor: Prof. Wei Zhang)
+* M.S. in Xidian University, 2021 (Supervisor: Prof. Rui Chen)
+* B.S. in Nanjing University of Posts and Telecommunications, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2024.06-09: Fusion Positioning Engineer
+  * AutoFlight
+  * Duties includes: Lidar point cloud algorithms
+  * Supervisor: Qunhe Zhao
   
 Skills
 ======
