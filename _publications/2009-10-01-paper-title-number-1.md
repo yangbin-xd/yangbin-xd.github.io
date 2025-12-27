@@ -6,7 +6,6 @@ permalink: https://ieeexplore.ieee.org/abstract/document/10272348/
 excerpt: 'This paper proposes an end-to-end framework to generate beamforming vector directly from user position.'
 date: 2023-08-30
 venue: 'Journal of Communications and Information Theory'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://academicpages.github.io/files/paper2.pdf'
 citation: 'W. Wang, B. Yang, and W. Zhang, "Deep learning-based radio map for MIMO-OFDM downlink precoding," J. Commun. Inf. Netw., vol. 8, no. 3, pp. 203–211, Sep. 2023.'
 ---
