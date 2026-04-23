@@ -6,7 +6,7 @@ permalink: https://ieeexplore.ieee.org/abstract/document/11008499
 excerpt: 'This paper integrates reduced pilots and radio map, as well as an SVM-based discriminator.'
 date: 2025-05-21
 venue: 'IEEE Transactions on Wireless Communications'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://academicpages.github.io/files/Radio_Map-Based_Beamforming_Assisted_With_Reduced_Pilots.pdf'
 citation: 'B. Yang, W. Wang, and W. Zhang, “Radio map-based beamforming assisted with reduced pilots,” IEEE Trans. Wireless Commun., vol. 24, no. 10, pp. 8878–8891, Oct. 2025.'
 ---
 
