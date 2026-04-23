@@ -6,7 +6,7 @@ permalink: https://ieeexplore.ieee.org/abstract/document/11148098
 excerpt: 'This paper constructs radio map based on CVCGAN for channel estimation in low-altitude economy.'
 date: 2025-08-10
 venue: 'IEEE/CIC International Conference on Communications in China (ICCC) Workshops'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://academicpages.github.io/files/AIGC-Based_Radio_Map_Construction_for_Channel_Estimation_in_Low-Altitude_Economy.pdf'
 citation: 'B. Yang, W. Zhang, and S. Zhang, "AIGC-based radio map construction for channel estimation in low-altitude economy," in Proc. IEEE/CIC Int. Conf. Commun. China (ICCC) Wkshps, Aug. 2025, pp. 1-6.'
 ---
 
