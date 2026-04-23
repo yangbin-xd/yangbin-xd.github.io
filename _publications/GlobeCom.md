@@ -6,7 +6,7 @@ permalink: https://ieeexplore.ieee.org/abstract/document/11100820
 excerpt: 'This paper considers the integration of reduced pilots and radio map.'
 date: 2024-12-08
 venue: 'IEEE Global Communications Conference (GlobeCom) Workshops'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://academicpages.github.io/files/MIMO_Beamforming_with_Reduced_Pilots_and_Radio_Map_for_Emergency_Wireless_Communications.pdf'
 citation: 'B. Yang, HH. Zhang, "MIMO beamforming with reduced pilots and radio map for emergency wireless communications," in Proc. IEEE Glob. Commun. Conf. (GlobeCom) Wkshps, Dec. 2024, pp. 1-5.'
 ---
 
