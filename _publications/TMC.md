@@ -6,7 +6,7 @@ permalink: https://ieeexplore.ieee.org/abstract/document/11397522
 excerpt: 'This paper constructs radio map for UAVs to acquire the piror information of CSI to assist channel estimation.'
 date: 2026-02-10
 venue: 'IEEE Transactions on Mobile Computing'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://academicpages.github.io/files/Generative_Radio_Map-Assisted_Channel_Estimation_in_Low-Altitude_Economy.pdf'
 citation: 'B. Yang, W. Wang, W. Zhang, and W. Zhang, “Generative radio map-assisted channel estimation in low-altitude economy,” IEEE Trans. Mobile Comput., early access.'
 ---
 
