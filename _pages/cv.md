@@ -51,4 +51,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Served as reviewer for IEEE TWC, TMC, TVT, IOTJ, WCL, CL
+* TPC for IEEE ICCC 2025
