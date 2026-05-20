@@ -26,8 +26,7 @@ Skills
 ======
 * PyTorch
 * TensorFlow
-* C
-* C++
+* C/C++
 
 Publications
 ======
