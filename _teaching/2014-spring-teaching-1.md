@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Digital Modulation and Coding"
 collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2014-spring-teaching-1
