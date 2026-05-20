@@ -1,6 +1,6 @@
 ---
 title: "GlobeCom 2024 Cape Town"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/Cape Town.jpg'>"
+excerpt: "Cape of Good Hope<br/><img src='/images/Cape Town.jpg'>"
 collection: portfolio
 ---
 
