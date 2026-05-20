@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "GlobeCom 2024 Cape Town"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/Cape Town.jpg'>"
 collection: portfolio
 ---
